@@ -1,4 +1,4 @@
-# Flight-of-Icarus-Game
+# Aces-High-Game
 
 Duplas: Henrique Vitor e Victor Chefer 3°JD
 
