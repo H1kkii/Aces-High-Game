@@ -2,4 +2,4 @@
 
 Duplas: Henrique Vitor e Victor Chefer 3°JD
 
-https://github.com/H1kkii/Flight-of-Icarus-Game/wiki
+https://github.com/H1kkii/Aces-High-Game/wiki
